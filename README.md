@@ -1,5 +1,3 @@
-Here is the README file for your deep learning project:
-
 ---
 
 # Deep Learning Project: Meta AI DETR Model with ResNet-50 Backbone
