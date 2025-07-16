@@ -4,7 +4,8 @@
 
 # Deep Learning Project - Meta AI DETR Model with ResNet-50 Backbone
 
-[Google Colab Link](https://colab.research.google.com/drive/1J_Y-F5mEhT3hHAyTP7fNyb-mcnTVQwyV?usp=sharing)
+[Google Colab Link](https://drive.google.com/file/d/1tjnermLm5ZdirF2rR9diQZdYpiGWQOzd/view?usp=sharing)
+[OneDrive](https://1drv.ms/u/c/fb4ac2d0345bd106/EfyDXmn6fSNMiXuvonog0V8B6VHbeJ4p9JKwi0rtLJw-eA?e=Fpz3dF)
 This project explores the DETR (DEtection TRansformer) model developed by Meta AI, utilizing a ResNet-50 backbone. The DETR model is designed for end-to-end object detection, based on the paper titled “End-to-End Object Detection with Transformers” by Nicolas Carion, Francisco Massa, Gabriel Synnaeve, Nicolas Usunier, Alexander Kirillov, and Sergey Zagoruyko. The model is trained on the Common Objects in Context (COCO) 2017 object detection dataset, containing 118k annotated images.
 
 - Model Architecture - The DETR model combines a convolutional backbone network (ResNet-50) with a Transformer-based encoder-decoder architecture to detect objects in an image without using traditional methods like non-maximum suppression  
